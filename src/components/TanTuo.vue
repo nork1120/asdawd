@@ -20,7 +20,7 @@
         </div>
         <div class="modal-body">
           <div class="right">
-            <p>請輸入圖片網ss址</p>
+            <p>請輸入圖片網ssasd址</p>
             <input
               class="form-control form-control-lg"
               type="text"
